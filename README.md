@@ -1,5 +1,5 @@
 # Whatsapp Ui Clone
-> Live demo [https://whatsappclone-1798a.web.app](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [here](https://whatsappclone-1798a.web.app). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Technologies Used
 - React.js
